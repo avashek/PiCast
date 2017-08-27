@@ -3,7 +3,7 @@
   "name": "PiCast",
   "icons": [
     {
-      "src": "rpi.png",
+      "src": "favicon.ico",
       "sizes": "192x192",
       "type": "image/png"
     }
