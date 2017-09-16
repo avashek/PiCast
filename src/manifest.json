@@ -3,13 +3,13 @@
   "name": "PiCast",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "rpi.png",
       "sizes": "192x192",
       "type": "image/png"
     }
   ],
   "start_url": "./index.html",
   "display": "standalone",
-  "theme_color": "#bb0000",
-  "background_color": "#F0F0A8"
+  "theme_color": "#111",
+  "background_color": "#111"
 }
